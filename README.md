@@ -7,3 +7,4 @@ Attached project descriptions:
 1. Regression Modelling
 2. Classification Modelling
 3. Text Adventure Game as a Passion Project
+4. SQL coding using Wedding database
